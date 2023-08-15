@@ -1,5 +1,0 @@
-{{#user}
-Name: Rohan Bait
-Skills: HTML, CSS, JS, Java
-Email: robaitis60@gmail.com
-{{/user}}
